@@ -1,5 +1,3 @@
-# react-native-styling-cheat-sheet
-react-native-styling-cheat-sheet
 # React Native Styling Cheat Sheet
 
 Most of the React Native styling material in one page. Imported from the [official docs](http://facebook.github.io/react-native/docs/getting-started.html).
